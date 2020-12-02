@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there 👋 welcome to my page
+#### 😄 Pronouns: she/her/hers
 
+🌱 I’m currently learning about the basics of data analysis, to further establish skills in epidemiology--a data driven subset of public health.  With Covid-19 happening globally, I'm hoping to help contribute to the output of health driven data that is both informative and attainable by the general public.
 <!--
 **natlass/natlass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
